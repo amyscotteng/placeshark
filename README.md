@@ -7,6 +7,6 @@ It will cycle through six images of six shark species:
 2) Tiger shark (galeocerdo cuvier)
 3) Whale Shark (rhincodon typus)
 4) Hammerhead shark (sphyrna mokarran - the great hammerhead. there's actually three types of hammerhead sharks!)
-5) Bull shark (carcharhinus leucas)
+5) Sandbar shark (carcharhinus plumbeus)
 6) Nurse shark (ginglymostoma cirratum)
 
