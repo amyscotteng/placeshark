@@ -1,7 +1,7 @@
 # Place Shark
 
 You've heard of PlaceGoat and PlaceKitten. I proudly present to you PLACESHARK! Why? Because sharks are awesome. 
-It will cycle through six images of six shark species:
+It will cycle through six images sharks:
 
 1) Great White (carcharodon carcharias) - my favorite shark
 2) Tiger shark (galeocerdo cuvier)
