@@ -1,7 +1,7 @@
 # PlaceShark
 > A placeholder image service 
 
-<img src="https://github.com/amyscotteng/placeshark/blob/master/src/images/greatwhite.jpg?raw=true" style="width: 50%">
+<img src="https://github.com/amyscotteng/placeshark/blob/master/src/images/greatwhite.jpg?raw=true" style="width:150px;height:150;">
 
 ## Table of contents
 * [General info](#general-info)
