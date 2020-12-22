@@ -1,11 +1,37 @@
-# Place Shark
+# PlaceShark
+> A placeholder image service 
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Features](#features)
+* [Status](#status)
+
+## General info
 You've heard of PlaceGoat and PlaceKitten. I proudly present to you PLACESHARK! Why? Because sharks are awesome. 
+
+
+
+## Technologies
+* HTML5
+* CSS3
+* Google Fonts
+ 
+
+## Features
 It will cycle through six images sharks:
 
-1) Great White (carcharodon carcharias) - my favorite shark
-2) Tiger shark (galeocerdo cuvier)
-3) Hammerhead shark (sphyrna mokarran - the great hammerhead. There's actually three types of hammerhead sharks!)
-4) Sandbar shark (carcharhinus plumbeus)
-5) Nurse shark (ginglymostoma cirratum)
+* Great White (carcharodon carcharias) - my favorite shark
+* Tiger shark (galeocerdo cuvier)
+* Hammerhead shark (sphyrna mokarran - the great hammerhead. There's actually three types of hammerhead sharks!)
+* Sandbar shark (carcharhinus plumbeus)
+* Nurse shark (ginglymostoma cirratum)
 
+To-do list:
+* Actual image cycling and usage
+
+## Status
+Project is: _in progress_. I'm still working on the 'meat' of this project but the website itself has been built! Hooray! :D
+
+## Contact
+amyscotteng@gmail.com
